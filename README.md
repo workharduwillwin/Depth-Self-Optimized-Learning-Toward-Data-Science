@@ -5,21 +5,24 @@ A large number of studies have shown that the performance of ANN is closely rela
 # File
 ## File List
 *"Depth self-optimized learning toward datascience "  
-   *"F-model(First-stage of DSOL) test"  
-      *"F-model test.ipynb"  
-      *Figures created by "F-model test.ipynb"  
-   *"RL-stage(Second-stage of DSOL)&DSOL test"  
-      *"second stage of Depth self-optimized learning test& total framework valid"  
-      *Figures created by "second stage of Depth self-optimized learning test& total framework valid" & "create figure.ipynb"   
-      *Data created by "second stage of Depth self-optimized learning test& total framework valid"    
-      *Weights of RL    
-   *"info of DSOL Architecture.ipynb"
+  *"F-model(First-stage of DSOL) test"  
+    *"F-model test.ipynb"  
+    *Figures created by "F-model test.ipynb"  
+  *"RL-stage(Second-stage of DSOL)&DSOL test"  
+    *"second stage of Depth self-optimized learning test& total framework valid"  
+    *Figures created by "second stage of Depth self-optimized learning test& total framework valid" & "create figure.ipynb"   
+    *Data created by "second stage of Depth self-optimized learning test& total framework valid"    
+    *Weights of RL    
+  *"info of DSOL Architecture.ipynb"
  
  ## File Introduction
  We up;oad a folder "Depth self-optimized learning toward datascience " consists of three files:"F-model(First-stage of DSOL) test", "RL-stage(Second-stage of DSOL)&DSOL test", "info of DSOL Architecture.ipynb".  
- *"info of DSOL Architecture.ipynb": This file is used to show the architecture and parameter of DSOL.  
- *"F-model(First-stage of DSOL) test":This file is used to test the first stage of DSOL.  
- *"RL-stage(Second-stage of DSOL)&DSOL test": This file is used to test second stage of DSOL as well as well trained DSOL.  
+   *"info of DSOL Architecture.ipynb": 
+      This file is used to show the architecture and parameter of DSOL.  
+   *"F-model(First-stage of DSOL) test":This 
+      This file is used to test the first stage of DSOL.  
+   *RL-stage(Second-stage of DSOL)&DSOL test": 
+      This file is used to test second stage of DSOL as well as well trained DSOL.  
  
  
  
