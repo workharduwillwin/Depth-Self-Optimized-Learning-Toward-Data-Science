@@ -7,7 +7,7 @@ A large number of studies have shown that the performance of ANN is closely rela
 > "Depth self-optimized learning toward datascience  "
 >>"F-model(First-stage of DSOL) test"
 >>>"F-model test.ipynb"
->>>>Figures created by "F-model test.ipynb"
+>>>>Figures created by "F-model test.ipynb"  
 >>"RL-stage(Second-stage of DSOL)&DSOL test"
 >>>"second stage of Depth self-optimized learning test& total framework valid"
 >>>>Figures created by "second stage of Depth self-optimized learning test& total framework valid" & create figure.ipynb
