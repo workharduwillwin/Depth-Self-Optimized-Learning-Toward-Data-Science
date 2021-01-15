@@ -12,7 +12,7 @@ A large number of studies have shown that the performance of ANN is closely rela
   * tensorflow-gpu
   * matplotlib
   * numpy
-* Theoretical Support: Our Paper link will be uploaded soon.
+* Theoretical Support: https://arxiv.org/abs/2011.02842v2
 # File
 * File List
  * "Depth self-optimized learning toward datascience "  
